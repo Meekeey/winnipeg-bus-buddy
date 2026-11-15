@@ -1,6 +1,15 @@
 # Bus Buddy
 
-A mobile-first web app for Winnipeg Transit riders, styled like a cozy pixel-art RPG.
+Winnipeg Transit Riders
+Demo Play: https://winnipeg-bus-buddy.vercel.app/ (Transit live might not work on desktop. maybe try it on mobile)
+
+<img width="2557" height="1303" alt="image" src="https://github.com/user-attachments/assets/58942dd9-be39-45dd-8b15-8e34e80e5343" />
+<img width="2560" height="1392" alt="image" src="https://github.com/user-attachments/assets/22a12c10-8ef8-4388-8b91-7c044fcceb65" />
+
+<img width="421" height="1303" alt="image" src="https://github.com/user-attachments/assets/be4fad87-7961-4ce0-a695-92dab23e6a09" />
+<img width="333" height="877" alt="image" src="https://github.com/user-attachments/assets/8c6f7cb9-ae7d-420d-b30d-9c4ba13f903b" />
+<img width="341" height="760" alt="image" src="https://github.com/user-attachments/assets/a9709528-4c68-424a-ae17-0634991ff1fa" />
+<img width="384" height="1142" alt="image" src="https://github.com/user-attachments/assets/3d0a6e94-9090-4391-a871-e56ea9022f14" />
 
 - **Map**: stops and route lines on an OpenStreetMap map, stop search, "stops near me".
 - **Track**: pick a stop, pick a bus, and follow that one bus (your "active quest").
@@ -10,6 +19,7 @@ A mobile-first web app for Winnipeg Transit riders, styled like a cozy pixel-art
 Everything uses free services: Vercel Hobby, OpenStreetMap tiles, and the
 Winnipeg Transit Open Data API.
 
+## Tutorial
 ## 1. Get a Winnipeg Transit API key (free)
 
 1. Go to <https://api.winnipegtransit.com/> and choose **Sign up**.
